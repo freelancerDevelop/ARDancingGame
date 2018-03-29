@@ -1455,7 +1455,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 9999999
+  m_Text: 0
 --- !u!222 &1323877147
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2066,6 +2066,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   HSPanel: {fileID: 454767521}
+  highscoreText: {fileID: 1323877146}
 --- !u!4 &2104776404
 Transform:
   m_ObjectHideFlags: 0

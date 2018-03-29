@@ -339,6 +339,8 @@
     <Compile Include="Assets\scr.cs" />
     <Compile Include="Assets\Scripts\fixPanel.cs" />
     <Compile Include="Assets\Scripts\gameController.cs" />
+    <Compile Include="Assets\Scripts\pointButton.cs" />
+    <Compile Include="Assets\Scripts\spawningController.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
   </ItemGroup>
