@@ -9,7 +9,7 @@ public class fixPanel : MonoBehaviour {
     
     public GameObject refreshButton;
     public GameObject cameraButton;
-    private string s = "";
+
     private bool flashEnabled = false;
 
 	// Use this for initialization
@@ -30,7 +30,7 @@ public class fixPanel : MonoBehaviour {
 
     public void OnClickRefresh()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        SceneManager.LoadScene("main");
     }
     
 

@@ -337,6 +337,7 @@
     <Compile Include="Assets\SamplesResources\VuforiaSamplesUI\Scripts\SamplesNavigationHandler.cs" />
     <Compile Include="Assets\SamplesResources\VuforiaSamplesUI\Scripts\SamplesTapHandler.cs" />
     <Compile Include="Assets\scr.cs" />
+    <Compile Include="Assets\Scripts\buttonCleanupController.cs" />
     <Compile Include="Assets\Scripts\fixPanel.cs" />
     <Compile Include="Assets\Scripts\gameController.cs" />
     <Compile Include="Assets\Scripts\pointButton.cs" />
